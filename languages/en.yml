@@ -4,7 +4,8 @@ nav:
   articles: Writing
   tag: Tag
   category: Category
-  projects: Projects
+  projects: Projects & Teaching
+  publications: Publications
   search: Search
 
 icons:
@@ -19,7 +20,7 @@ index:
   enum_comma: ','
   enum_and: and
   articles: Writing
-  projects: Projects
+  projects: Recent News
   topics: Topics
   most_recent: Most recent
 
